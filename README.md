@@ -1,8 +1,11 @@
 appium-ios-python-e2e-tests
 ===========================
 ## Prerequisites
+* Assuming a Mac OS X machine with Python 2.x and pip preinstalled
 * Setup xcode
 * Install sdks + simulators
+* Install [Homebrew](http://brew.io)
+* Install [Virtualenv](http://virtualenv.readthedocs.org/en/latest/)
 
 ## Building and running:
 1. setup the build directory to be relative to the workspace (under file/project settings, pick advanced and set relative to workspace)
